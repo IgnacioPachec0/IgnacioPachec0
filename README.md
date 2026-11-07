@@ -107,18 +107,6 @@ Diseñado con SOLID y patrones de diseño: sumar una variante nueva no exige toc
 
 <br>
 
-## En números
-
-<div align="center">
-
-| 80% | 5 | 2 | 0 |
-|:---:|:---:|:---:|:---:|
-| cobertura mínima exigida en CI | variantes de ajedrez sobre el mismo núcleo | versiones de un lenguaje desde una base de código | cortes en los despliegues |
-
-</div>
-
-<br>
-
 ## Cómo trabajo
 
 - Entiendo el problema a fondo antes de codear, y no entrego nada que no sepa explicar.
@@ -135,8 +123,4 @@ Una pasantía de desarrollo de software donde pueda aportar desde el primer día
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-pacheco-16349b22b)
-[![Email](https://img.shields.io/badge/Escribime-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nachopacheco61@hotmail.com)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=100&section=footer)
-
-</div>
+[![Email](https://img.shields.io/badge/Esc
