@@ -44,7 +44,7 @@ Estudio Ingeniería Informática en la Universidad Austral (Pilar, Bs. As.), 4°
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IgnacioPachec0&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPachec0&layout=compact&theme=github_dark&hide_border=true)
+![Stats](./profile-summary-card-output/github_dark/3-stats.svg)
+![Lenguajes](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 </div>
