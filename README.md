@@ -39,3 +39,14 @@ Estudio Ingeniería Informática en la Universidad Austral (Pilar, Bs. As.), 4°
 - **[PrintScript](https://github.com/PPC-INGSIS/printscript)**: lenguaje tipo TypeScript completo (intérprete, validador, formatter y linter) con dos versiones desde la misma base de código. Kotlin, GitHub Actions, cobertura mínima del 80%.
 - **Snippet Searcher**: plataforma de microservicios para guardar, validar y compartir fragmentos de código. Infraestructura en Azure con Docker Swarm, HTTPS automático y despliegues sin cortes.
 - **Motor de ajedrez multijugador**: diseñado con SOLID, cada variante se arma con su propia factory (hoy soporta 5). Partidas cliente-servidor con Netty. Kotlin.
+
+## GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=IgnacioPachec0&show_icons=true&theme=dark&hide_border=true)
+![Top lenguajes](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IgnacioPachec0&layout=compact&theme=dark&hide_border=true)
+
+![Racha](https://github-readme-stats-fast.vercel.app/api/streak?username=IgnacioPachec0&theme=dark)
+
+</div>
