@@ -9,11 +9,11 @@
 
 </div>
 
-## 👋 Sobre mí
+## Sobre mí
 
 Estudio Ingeniería Informática en la Universidad Austral (Pilar, Bs. As.), 4° año. Antes de encarar un problema me gusta entenderlo a fondo, y no entrego nada que no sepa explicar. Uso IA todos los días para ganar productividad, pero siempre reviso y entiendo lo que integro. Estoy buscando una pasantía para seguir creciendo en un entorno profesional.
 
-## 🛠️ Stack
+## Stack
 
 **Frontend**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -33,18 +33,9 @@ Estudio Ingeniería Informática en la Universidad Austral (Pilar, Bs. As.), 4°
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-## 🚀 Proyectos
+## Proyectos
 
 - **[SportMatch](https://github.com/SportmatchOrg/sportmatch)**: app web para encontrar y organizar partidos deslizando tarjetas. Hice todo el frontend: autenticación, perfil, creación de partidos y el mazo de tarjetas con gestos, sin librerías externas. Next.js, NestJS, Prisma, PostgreSQL.
 - **[PrintScript](https://github.com/PPC-INGSIS/printscript)**: lenguaje tipo TypeScript completo (intérprete, validador, formatter y linter) con dos versiones desde la misma base de código. Kotlin, GitHub Actions, cobertura mínima del 80%.
 - **Snippet Searcher**: plataforma de microservicios para guardar, validar y compartir fragmentos de código. Infraestructura en Azure con Docker Swarm, HTTPS automático y despliegues sin cortes.
 - **Motor de ajedrez multijugador**: diseñado con SOLID, cada variante se arma con su propia factory (hoy soporta 5). Partidas cliente-servidor con Netty. Kotlin.
-
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](./profile-summary-card-output/github_dark/3-stats.svg)
-![Lenguajes](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-</div>
